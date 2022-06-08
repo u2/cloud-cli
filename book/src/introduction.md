@@ -1,12 +1,12 @@
 # cloud-cli
 
-`cloud-cli`（简称`cldi`）是CITA-Cloud命令行工具。它封装了CITA-Cloud构建的链提供的gRPC接口，并提供了一些辅助功能，方便用户与链进行交互。
+`cloud-cli`（简称`cldi`）是区块链命令行工具。它封装了区块链构建的链提供的gRPC接口，并提供了一些辅助功能，方便用户与链进行交互。
 
 ```plaintext
 $ cldi help
 cldi 0.4.0
-Rivtower Technologies <contact@rivtower.com>
-The command line interface to interact with CITA-Cloud
+
+The command line interface to interact with blockchain
 
 USAGE:
     cldi [OPTIONS] [SUBCOMMAND]
